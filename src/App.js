@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1> My Athan React Website </h1>
+      <h1> My Athan React Website </h1>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
